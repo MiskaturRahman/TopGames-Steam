@@ -1,0 +1,30 @@
+div.tooltip{
+  position: absolute;
+  text-align: left;
+  padding: 0 10px;
+  font: 14px sans-serif;
+  background: rgb(247, 243, 22);
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}
+
+.slider
+{
+    position: absolute;
+    left: 150px
+}
+
+text {
+    font: 14px Helvetica;
+}
